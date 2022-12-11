@@ -81,7 +81,7 @@ public class Main {
 
         List<User> following = new ArrayList<>();
         user1.setFollowing(user2);
-        System.out.println(user1.getFollowing().);
+        System.out.println(user1.getFollowing());
     }
 
 
